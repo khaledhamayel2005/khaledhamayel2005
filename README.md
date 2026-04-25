@@ -1,7 +1,7 @@
 <h1 align="center">Khaled Hamayel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00A8E8&center=true&vCenter=true&width=700&lines=Data+Structures+%26+Algorithms+in+JavaScript;Problem+Solver+%7C+LeetCode+%26+Codeforces;Building+Interview-Ready+Coding+Skills" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00A8E8&center=true&vCenter=true&width=760&lines=Computer+Science+Student+at+Birzeit+University;CAC+Club+President+%7C+GFG+Birzeit+Leader;Web+Development+%2B+Problem+Solving+%2B+Community+Impact" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -12,17 +12,33 @@
 
 ## About Me
 
-- Computer Science student at Birzeit University.
-- JavaScript developer building structured, multi-page, data-driven web experiences.
-- Focused on Data Structures and Algorithms with consistent problem-solving practice.
-- CAC President and GFG Birzeit Leader, organizing technical workshops and student activities.
-- Strong interest in clean UI, clear communication, and practical impact through community work.
+- I am a Computer Science student at Birzeit University.
+- Current role: CAC Club President.
+- Community role: GFG Birzeit Leader.
+- I build web interfaces and CV-style platforms using HTML, CSS, and JavaScript.
+- I practice Data Structures and Algorithms consistently through problem-solving.
+- I enjoy turning student ideas into practical events and useful learning spaces.
 
 ## What I Build
 
-- Personal CV platform with reusable page shell and data-driven content modules.
-- Problem-solving archive with categorized questions, explanations, and solution patterns.
-- University community pages for events, leadership activities, and student collaboration.
+- Multi-page CV website with reusable layout, shared components, and data-driven pages.
+- Problem-solving archive that organizes DSA questions with idea summaries and explanations.
+- University event pages for CAC, GFG Birzeit, and AE Student Group activities.
+- Community-focused landing pages designed for clear communication and student impact.
+
+## Leadership & Community
+
+- Started in CAC as a member, then advanced to President.
+- Lead planning, coordination, and execution of student technical activities.
+- Organize practice sessions and community meetups through GFG Birzeit.
+- Collaborate with university groups to support cross-team initiatives.
+
+## Personal Strengths
+
+- Problem solving and structured thinking.
+- Teamwork, communication, and responsibility.
+- Strategic mindset through chess.
+- Discipline and consistency through karate.
 
 ## Tech Stack
 
@@ -60,6 +76,8 @@
 
 ## Contact
 
+- Email: 1231439@student.birzeit.edu
+- Location: AbuFalah, Palestine
 - GitHub: https://github.com/khaledhamayel2005
 
 <!--
@@ -69,4 +87,4 @@ To make this appear as your main profile README:
 3) Push to main branch
 -->
 
-_Last updated: 2026-04-25_
+_Last updated: 2026-04-25 (CV-aligned profile)_
