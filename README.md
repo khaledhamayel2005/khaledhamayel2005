@@ -12,10 +12,17 @@
 
 ## About Me
 
-- Focused on mastering Data Structures and Algorithms step by step.
-- Solving coding problems regularly on LeetCode and Codeforces.
-- Building clean JavaScript implementations with strong fundamentals.
-- Targeting software engineering interviews with confidence.
+- Computer Science student at Birzeit University.
+- JavaScript developer building structured, multi-page, data-driven web experiences.
+- Focused on Data Structures and Algorithms with consistent problem-solving practice.
+- CAC President and GFG Birzeit Leader, organizing technical workshops and student activities.
+- Strong interest in clean UI, clear communication, and practical impact through community work.
+
+## What I Build
+
+- Personal CV platform with reusable page shell and data-driven content modules.
+- Problem-solving archive with categorized questions, explanations, and solution patterns.
+- University community pages for events, leadership activities, and student collaboration.
 
 ## Tech Stack
 
