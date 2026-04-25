@@ -1,78 +1,85 @@
-<h1 align="center">Khaled Hamayel</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00A8E8&center=true&vCenter=true&width=760&lines=Computer+Science+Student+at+Birzeit+University;CAC+Club+President+%7C+GFG+Birzeit+Leader;Web+Development+%2B+Problem+Solving+%2B+Community+Impact" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=Khaled%20Hamayel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20CAC%20President%20%7C%20GFG%20Birzeit%20Leader&descSize=16&descAlignY=58" alt="Header banner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/khaledhamayel2005">
-    <img src="https://komarev.com/ghpvc/?username=khaledhamayel2005&label=Profile%20Views&color=118ab2&style=for-the-badge" alt="Profile views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2600&pause=650&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+clean+web+experiences+with+HTML%2C+CSS%2C+and+JavaScript;Practicing+Data+Structures+%26+Algorithms+every+day;Turning+student+communities+into+practical+learning+spaces" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khaledhamayel2005&label=PROFILE+VIEWS&color=0284C7&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Birzeit%20University-CS%20Student-0EA5E9?style=for-the-badge" alt="Birzeit University" />
+  <img src="https://img.shields.io/badge/Current%20Role-CAC%20President-2563EB?style=for-the-badge" alt="CAC President" />
+  <img src="https://img.shields.io/badge/Community-GFG%20Birzeit%20Leader-0891B2?style=for-the-badge" alt="GFG Birzeit Leader" />
 </p>
 
 ## About Me
 
-- I am a Computer Science student at Birzeit University.
-- Current role: CAC Club President.
-- Community role: GFG Birzeit Leader.
-- I build web interfaces and CV-style platforms using HTML, CSS, and JavaScript.
-- I practice Data Structures and Algorithms consistently through problem-solving.
-- I enjoy turning student ideas into practical events and useful learning spaces.
+I am Khaled Hamayel, a Computer Science student at Birzeit University who combines technical growth with student community leadership.
 
-## What I Build
+- I build structured and responsive web interfaces using HTML, CSS, and JavaScript.
+- I train consistently on problem solving and DSA patterns for interviews.
+- I lead and organize technical activities that help students learn by practice.
+- I value clean communication, clear ownership, and measurable student impact.
 
-- Multi-page CV website with reusable layout, shared components, and data-driven pages.
-- Problem-solving archive that organizes DSA questions with idea summaries and explanations.
-- University event pages for CAC, GFG Birzeit, and AE Student Group activities.
-- Community-focused landing pages designed for clear communication and student impact.
+## Profile Snapshot
 
-## Leadership & Community
+| Area | Highlights |
+| --- | --- |
+| Education | Computer Science student at Birzeit University |
+| Leadership | CAC President, previously CAC member |
+| Community | GFG Birzeit Leader, collaborator with AE Student Group |
+| Core Focus | Web Development + Problem Solving + DSA |
+| Mindset | Strategy from chess, discipline from karate |
 
-- Started in CAC as a member, then advanced to President.
-- Lead planning, coordination, and execution of student technical activities.
-- Organize practice sessions and community meetups through GFG Birzeit.
-- Collaborate with university groups to support cross-team initiatives.
+## Featured Work
 
-## Personal Strengths
+| Project | What It Shows |
+| --- | --- |
+| [DSA Repository](https://github.com/khaledhamayel2005/DSA) | Hands-on data structures and algorithm practice in JavaScript |
+| [CV Website Project](https://github.com/khaledhamayel2005/khaledhamayel2005) | Multi-page CV platform with reusable shell and data-driven sections |
+| University Event Content | Structured presentation of CAC, GFG, and AE activities |
 
-- Problem solving and structured thinking.
-- Teamwork, communication, and responsibility.
-- Strategic mindset through chess.
-- Discipline and consistency through karate.
+## Leadership & Community Impact
 
-## Tech Stack
+- Coordinating student-focused technical events and workshop planning.
+- Guiding peers in practice sessions for problem-solving habits.
+- Building collaboration between different university communities.
+- Converting ideas into concrete initiatives with clear outcomes.
+
+## Tech Arsenal
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode" alt="Skill icons" />
 </p>
 
-## Learning Roadmap
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures-0F172A?style=for-the-badge" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Algorithms-1E293B?style=for-the-badge" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-334155?style=for-the-badge" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Community%20Leadership-475569?style=for-the-badge" alt="Community Leadership" />
+</p>
 
-- Big O notation
-- Arrays, Linked Lists, and Doubly Linked Lists
-- Stacks and Queues
-- Binary Trees, Hash Tables, Graphs, and Heaps
-- Sorting: Bubble, Selection, Insertion, Merge, Quick
-- Searching: Breadth First Search (BFS), Depth First Search (DFS)
-- Dynamic Programming
-
-## GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khaledhamayel2005&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhamayel2005&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khaledhamayel2005&show_icons=true&theme=algolia&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhamayel2005&layout=compact&theme=algolia&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khaledhamayel2005&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=khaledhamayel2005&theme=algolia&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaledhamayel2005&bg_color=ffffff&color=118ab2&line=06d6a0&point=ef476f&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaledhamayel2005&bg_color=0b1220&color=38bdf8&line=22d3ee&point=f97316&area=true&hide_border=true" alt="Contribution graph" />
 </p>
+
+## Current Focus
+
+- Advanced DSA implementation patterns in JavaScript.
+- Building stronger portfolio projects with clearer business value.
+- Expanding workshop quality and student engagement outcomes.
 
 ## Contact
 
@@ -80,11 +87,8 @@
 - Location: AbuFalah, Palestine
 - GitHub: https://github.com/khaledhamayel2005
 
-<!--
-To make this appear as your main profile README:
-1) Create a repository named exactly: khaledhamayel2005
-2) Add this content to README.md
-3) Push to main branch
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" alt="Footer banner" />
+</p>
 
-_Last updated: 2026-04-25 (CV-aligned profile)_
+_Last updated: 2026-04-25 (premium CV-aligned profile)_
