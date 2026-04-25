@@ -1,76 +1,63 @@
-<h1 align="center">Hi, I'm Khaled Hamayel</h1>
-<h3 align="center">Data Structures & Algorithms Learner | JavaScript Developer</h3>
+<h1 align="center">Khaled Hamayel</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00A8E8&center=true&vCenter=true&width=700&lines=Data+Structures+%26+Algorithms+in+JavaScript;Problem+Solver+%7C+LeetCode+%26+Codeforces;Building+Interview-Ready+Coding+Skills" alt="Typing animation" />
+</p>
 
 <p align="center">
   <a href="https://github.com/khaledhamayel2005">
-    <img src="https://komarev.com/ghpvc/?username=khaledhamayel2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=khaledhamayel2005&label=Profile%20Views&color=118ab2&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
 
----
-
 ## About Me
 
-- Focused on mastering Data Structures and Algorithms
-- Practicing problem solving on LeetCode and Codeforces
-- Building clean JavaScript implementations and interview-ready patterns
-- Goal: Become highly prepared for software engineering interviews
-
----
+- Focused on mastering Data Structures and Algorithms step by step.
+- Solving coding problems regularly on LeetCode and Codeforces.
+- Building clean JavaScript implementations with strong fundamentals.
+- Targeting software engineering interviews with confidence.
 
 ## Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
-
-## Current Learning Roadmap
+## Learning Roadmap
 
 - Big O notation
-- Arrays and Linked Lists
+- Arrays, Linked Lists, and Doubly Linked Lists
 - Stacks and Queues
-- Trees, Hash Tables, Graphs, Heaps
-- Sorting algorithms:
-  - Bubble Sort
-  - Selection Sort
-  - Insertion Sort
-  - Merge Sort
-  - Quick Sort
-- Searching algorithms:
-  - Breadth First Search (BFS)
-  - Depth First Search (DFS)
+- Binary Trees, Hash Tables, Graphs, and Heaps
+- Sorting: Bubble, Selection, Insertion, Merge, Quick
+- Searching: Breadth First Search (BFS), Depth First Search (DFS)
 - Dynamic Programming
-
----
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaledhamayel2005&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khaledhamayel2005&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhamayel2005&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhamayel2005&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img src="https://streak-stats.demolab.com?user=khaledhamayel2005&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khaledhamayel2005&theme=tokyonight&hide_border=true" alt="github streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaledhamayel2005&bg_color=ffffff&color=118ab2&line=06d6a0&point=ef476f&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
----
-
-## Connect With Me
+## Contact
 
 - GitHub: https://github.com/khaledhamayel2005
 
 <!--
-How to use this file for your profile:
+To make this appear as your main profile README:
 1) Create a repository named exactly: khaledhamayel2005
-2) Place this content in README.md of that repository
-3) Push it to GitHub
+2) Add this content to README.md
+3) Push to main branch
 -->
