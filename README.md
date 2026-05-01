@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2600&pause=650&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+clean+web+experiences+with+HTML%2C+CSS%2C+and+JavaScript;Practicing+Data+Structures+%26+Algorithms+every+day;Turning+student+communities+into+practical+learning+spaces" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2600&pause=650&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+clean+web+experiences+with+HTML%2C+CSS%2C+JavaScript%2C+PHP%2C+and+Java;Practicing+Data+Structures+%26+Algorithms+every+day;Turning+student+communities+into+practical+learning+spaces" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -17,7 +17,8 @@
 
 I am Khaled Hamayel, a Computer Science student at Birzeit University who combines technical growth with student community leadership.
 
-- I build structured and responsive web interfaces using HTML, CSS, and JavaScript.
+- I build structured and responsive web interfaces using HTML, CSS, JavaScript, and PHP.
+- I develop applications using Java for robust backend solutions.
 - I train consistently on problem solving and DSA patterns for interviews.
 - I lead and organize technical activities that help students learn by practice.
 - I value clean communication, clear ownership, and measurable student impact.
@@ -50,7 +51,7 @@ I am Khaled Hamayel, a Computer Science student at Birzeit University who combin
 ## Tech Arsenal
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,nodejs,git,github,vscode" alt="Skill icons" />
 </p>
 
 <p>
@@ -91,4 +92,4 @@ I am Khaled Hamayel, a Computer Science student at Birzeit University who combin
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" alt="Footer banner" />
 </p>
 
-_Last updated: 2026-04-25 (premium CV-aligned profile)_
+_Last updated: 2026-05-01 (premium CV-aligned profile)_
